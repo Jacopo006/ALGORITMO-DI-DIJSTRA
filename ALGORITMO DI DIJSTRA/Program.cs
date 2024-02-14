@@ -43,7 +43,9 @@ namespace ALGORITMO_DI_DIJSTRA
                         }
                     }
                 }
-
+                Console.WriteLine("\n");
+                Console.WriteLine("\n");
+                Console.WriteLine("\n");
                 Console.WriteLine("Distanze minime dal nodo iniziale:");
                 for (int i = 0; i < numeroNodi; i++)
                 {
